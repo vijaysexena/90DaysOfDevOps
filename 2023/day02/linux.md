@@ -8,9 +8,12 @@
 
 Examples:
 
-- `ls -l`--> displays detailed information about files and directories..
+- `ls -l`--> displays detailed information about files and directories.
+
 - `ls -a `--> Represent all files Include hidden files and directories in the listing.
+
 - `ls -i ` --> displays the index number (inode) of each file and directory.
+
 - ` ls -S` --> Sort files and directories by their sizes, listing the largest ones first.
 
 ### Directoy commands
